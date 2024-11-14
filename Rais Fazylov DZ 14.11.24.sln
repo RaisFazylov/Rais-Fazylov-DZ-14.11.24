@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rais Fazylov DZ 14.11.24", "Rais Fazylov DZ 14.11.24\Rais Fazylov DZ 14.11.24.csproj", "{EF2AA15D-E2F1-4A32-ACCF-1C6E8EAE90B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov Lab", "Tumakov Lab\Tumakov Lab.csproj", "{DCEA3E07-C269-485E-9D11-6D377400828E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2AA15D-E2F1-4A32-ACCF-1C6E8EAE90B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2AA15D-E2F1-4A32-ACCF-1C6E8EAE90B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2AA15D-E2F1-4A32-ACCF-1C6E8EAE90B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2AA15D-E2F1-4A32-ACCF-1C6E8EAE90B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCEA3E07-C269-485E-9D11-6D377400828E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEA3E07-C269-485E-9D11-6D377400828E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEA3E07-C269-485E-9D11-6D377400828E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEA3E07-C269-485E-9D11-6D377400828E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C1BD2E8-81D5-4A3E-958D-01B45198D6FC}
+	EndGlobalSection
+EndGlobal
